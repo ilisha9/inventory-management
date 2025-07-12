@@ -154,20 +154,7 @@ pytest tests/test_inventory.py
 - Real-time updates: 1-minute intervals
 - Alert generation: <2 seconds
 
-**Business Impact:**
-- 500+ inventory items managed
-- 4 production lines monitored
-- 24/7 operation coverage
-- 98% inventory accuracy achieved
-
 ## Industrial Application
-
-**ADIENT Implementation:**
-- Automotive seat manufacturing
-- 4 production lines (Assembly Line 1 & 2, QC, Packaging)
-- 500+ SKUs (frames, foam, covers, fasteners)
-- 3-shift operations (24/7 manufacturing)
-- Multiple suppliers with optimized lead times
 
 **Manufacturing Challenges Solved:**
 - Complex BOM management for automotive seats
@@ -202,17 +189,3 @@ This system was developed during my 3-month internship at ADIENT, a global autom
 - Professional development practices
 - Industry-standard methodologies
 
-## Contact
-
-**Hilmi Iliass**
-- Email: ilihilmi13@gmail.com
-- Phone: +44 7902 464227
-- Location: Cardiff, United Kingdom
-
-## License
-
-MIT License - see LICENSE file for details.
-
----
-
-*This project represents practical intersection of software engineering and manufacturing excellence, showcasing real-world industrial automation experience.*
